@@ -1,5 +1,7 @@
 # My Favorite Movie: The Hunger Games
 
+![alt text](image.jpg)
+
 **Genre:** Action, Science Fiction, Adventure
 
 **Main Characters:** Katniss Everdeen, Peeta Mellark, Gale Hawthorne
