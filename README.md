@@ -1,6 +1,6 @@
 # My Favorite Movie: The Hunger Games
 
-![The Hunger Games](https://www.bing.com/images/search?view=detailV2&ccid=7jHJBgmV&id=D95858C6F6A161FE886AEDC02D3C7C6C3CD4A0D7&thid=OIP.7jHJBgmVm-T-STyC42fJLwHaLH&mediaurl=https%3a%2f%2fstatic1.srcdn.com%2fwordpress%2fwp-content%2fuploads%2f2023%2f10%2fthe-hunger-games-franchise-poster.jpg&exph=3000&expw=2000&q=The+Hunger+Games&FORM=IRPRST&ck=4E692E91D6090F4069B1FE6D39270BD9&selectedIndex=0&itb=0.jpg)
+![The Hunger Games](https://www.themoviedb.org/t/p/original/1ewwtjqAcwZ5abr2X7coGN0UwaI.jpg)
 
 **Genre:** Action, Science Fiction, Adventure
 
