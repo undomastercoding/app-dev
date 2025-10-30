@@ -1,6 +1,6 @@
 # My Favorite Movie: The Hunger Games
 
-![alt text](TheHungerGames.jpg)
+![The Hunger Games](https://upload.wikimedia.org/wikipedia/en/4/42/HUngerGamesPoster.jpg)
 
 **Genre:** Action, Science Fiction, Adventure
 
